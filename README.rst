@@ -1,6 +1,8 @@
-**********************************************
-filewire: easily send and receive files in LAN
-**********************************************
+********
+filewire
+********
+
+Easily send and receive files in LAN.
 
 ============
 Installation
