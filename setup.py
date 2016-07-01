@@ -9,7 +9,7 @@ setup(
     description='Easily send and receive files over LAN',
     author='zxey',
     author_email='zxey.bones@gmail.com',
-    url='https://pypi.python.org/pypi/filewire',
+    url='https://github.com/zxey/filewire',
     packages=find_packages(),
     license='MIT',
     classifiers=[
