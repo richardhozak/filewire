@@ -2,7 +2,7 @@
 filewire
 ********
 
-Easily send and receive files in LAN.
+Easily send and receive files over LAN.
 
 ============
 Installation

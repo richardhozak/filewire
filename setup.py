@@ -6,7 +6,7 @@ import filewire.filewire
 setup(
     name='filewire',
     version=filewire.filewire.__version__,
-    description='Easily send and receive files in LAN',
+    description='Easily send and receive files over LAN',
     author='zxey',
     author_email='zxey.bones@gmail.com',
     url='https://pypi.python.org/pypi/filewire',
